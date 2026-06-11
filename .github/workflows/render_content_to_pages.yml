@@ -1,0 +1,51 @@
+name: 'render content.md to pages'
+on:
+  push:
+    branches:
+      main
+  
+jobs:
+  render-md-to-html-and-upload-artifact:
+    runs-on: ubuntu-22.04
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+      with:
+        ref: main
+        path: repo
+    - name: Setup Ruby
+      uses: ruby/setup-ruby@v1.152.0
+      with:
+        ruby-version: '3.2.2'
+    - name: Setup libs
+      run: gem install redcarpet
+    - name: Run Ruby script
+      working-directory: repo
+      run: ruby script.rb
+    - name: Upload Artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: site
+        path: repo/build
+      
+  deploy-artifact-to-pages:
+    concurrency: ci-${{ github.ref }}
+    needs: [render-md-to-html-and-upload-artifact]
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          ref: main
+      - name: Download Artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: site
+          path: site
+      - name: deploy to pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: site
+          branch: gh-pages
+          token: ${{ secrets.MD_TO_PAGES_ACTION_TOKEN }}
+        
