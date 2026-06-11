@@ -2,10 +2,10 @@
 
 # Primi Vespri - Tempo... Kronos e Kairos
 
-**V.** O Dio, vieni a salvarmi  
+**V.** O Dio, vieni a salvarmi.  
 **R.** Signore, vieni presto in mio aiuto.  
 **V.** Gloria al Padre e al Figlio e allo Spirito Santo.  
-**R.**Come era nel principio, e ora e sempre nei secoli dei secoli. Amen. Alleluia.
+**R.**Come era nel principio, e ora e sempre nei secoli dei secoli. Amen. Alleluia.  
 
 ## Canto - Vivere la vita
 Vivere la vita con le gioie e coi dolori d'ogni giorno, è quello che Dio vuole da te.  
@@ -21,7 +21,7 @@ Scoprirai allora il cielo dentro di te, una scia di luce lascerai, una scia di l
 
 ## Salmodie
 
-**1 ant.** O eterno amore di Dio! Innalzato da terra, Gesù ci attira al suo cuore.
+**1 ant.** O eterno amore di Dio! Innalzato da terra, Gesù ci attira al suo cuore.  
 
 ### Salmo 112
 Lodate, servi del Signore, lodate il nome del Signore.  
@@ -65,33 +65,32 @@ e li hai costituiti per il nostro Dio un regno di sacerdoti e regneranno sopra l
 
 
 ## Lettura - Dal Libro dell'Ecclesiaste 3, 1-9
-Per ogni cosa c'è il suo momento, il suo tempo per ogni faccenda sotto il cielo.
-C'è un tempo per nascere e un tempo per morire, un tempo per piantare e un tempo per sradicare le piante.
-Un tempo per uccidere e un tempo per guarire, un tempo per demolire e un tempo per costruire.
-Un tempo per piangere e un tempo per ridere, un tempo per gemere e un tempo per ballare.
-Un tempo per gettare sassi e un tempo per raccoglierli, un tempo per abbracciare e un tempo per astenersi dagli abbracci.
-Un tempo per cercare e un tempo per perdere, un tempo per serbare e un tempo per buttar via.
-Un tempo per stracciare e un tempo per cucire, un tempo per tacere e un tempo per parlare.
-Un tempo per amare e un tempo per odiare, un tempo per la guerra e un tempo per la pace.
-Che vantaggio ha chi si dà da fare con fatica?
+Per ogni cosa c'è il suo momento, il suo tempo per ogni faccenda sotto il cielo.  
+C'è un tempo per nascere e un tempo per morire, un tempo per piantare e un tempo per sradicare le piante.  
+Un tempo per uccidere e un tempo per guarire, un tempo per demolire e un tempo per costruire.  
+Un tempo per piangere e un tempo per ridere, un tempo per gemere e un tempo per ballare.  
+Un tempo per gettare sassi e un tempo per raccoglierli, un tempo per abbracciare e un tempo per astenersi dagli abbracci.  
+Un tempo per cercare e un tempo per perdere, un tempo per serbare e un tempo per buttar via.  
+Un tempo per stracciare e un tempo per cucire, un tempo per tacere e un tempo per parlare.  
+Un tempo per amare e un tempo per odiare, un tempo per la guerra e un tempo per la pace.  
+Che vantaggio ha chi si dà da fare con fatica?  
 
 ## Responsorio Breve
 
-R. Cristo ci ama * e ci ha liberati con il suo sangue.
-Cristo ci ama e ci ha liberati con il suo sangue.
-V. Ha fatto di noi un regno e sacerdoti per il nostro
-Dio,
-e ci ha liberati con il suo sangue.
-    Gloria al Padre e al Figlio e allo Spirito Santo.
-Cristo ci ama ci ha liberati con il suo sangue.
+**V.** Cristo ci ama e ci ha liberati con il suo sangue.  
+**R.** Cristo ci ama e ci ha liberati con il suo sangue.  
+**V.** Ha fatto di noi un regno e sacerdoti per il nostro Dio,  
+**R.** e ci ha liberati con il suo sangue.  
+**V.** Gloria al Padre e al Figlio e allo Spirito Santo.  
+**R.** Cristo ci ama ci ha liberati con il suo sangue.  
 
 **Ant. al Magn.** Ho portato sulla terra il fuoco dell’amore. Come vorrei che divampasse in tutto il mondo!  
 
 ### Cantico della Beata Vergine - Lc 1, 46-55
 
-L’anima mia magnifica il Signore e il mio spirito esulta in Dio, mio salvatore,
+L’anima mia magnifica il Signore e il mio spirito esulta in Dio, mio salvatore,  
 *perché ha guardato l’umiltà della sua serva. D’ora in poi tutte le generazioni mi chiameranno beata.*  
-Grandi cose ha fatto in me l’Onnipotente e Santo è il suo nome:
+Grandi cose ha fatto in me l’Onnipotente e Santo è il suo nome:  
 *di generazione in generazione la sua misericordia si stende su quelli che lo temono.*  
 Ha spiegato la potenza del suo braccio, ha disperso i superbi nei pensieri del loro cuore;  
 *ha rovesciato i potenti dai troni, ha innalzato gli umili;*  
@@ -105,7 +104,7 @@ Come era nel principio, e ora e sempre nei secoli dei secoli. Amen.
 
 ## Intercessioni
 A Dio, fonte di ogni amore, che nel Signore Gesù ha scelto di abitare il nostro tempo e di farsi compagno di strada nelle nostre case, rivolgiamo la nostra fiduciosa preghiera al termine di questo giorno.  
-Diciamo insieme: **Signore, benedici il tempo del nostro amore.**
+Diciamo insieme: **Signore, benedici il tempo del nostro amore.**  
 
 *Per il nostro tempo quotidiano*: schiacciati spesso dalla fretta, dalle scadenze e dalle preoccupazioni del lavoro, rischiamo di perdere di vista chi ci sta accanto. Donaci la grazia di non lasciarci rubare il tempo del dialogo, della tenerezza e del perdono, perché le nostre case siano luoghi di pace e non di affanno. Ti preghiamo.  
 
@@ -118,9 +117,10 @@ Diciamo insieme: **Signore, benedici il tempo del nostro amore.**
 *Per chi si sente in ritardo o in ansia per il futuro*: per chi fatica a costruire progetti, per chi attende il dono di un figlio o una stabilità lavorativa. Insegnaci ad affidare il nostro futuro alle tue mani, certi che il tuo tempo è guidato da una promessa di bene per noi. Ti preghiamo.  
 
 
-Raccogliamo i desideri, le fatiche e i progetti della nostra vita a due, unendo le nostre voci nella preghiera dei figli di Dio: Padre nostro...
+Raccogliamo i desideri, le fatiche e i progetti della nostra vita a due, unendo le nostre voci nella preghiera dei figli di Dio: Padre nostro...  
 
 ## Orazione
+
 **V.** O Padre, che nel cuore del tuo dilettissimo Figlio ci dai la gioia di celebrare le grandi opere del suo amore per noi, fa’ che da questa fonte inesauribile attingiamo l’abbondanza dei tuoi doni. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli.  
 Il Signore ci benedica, ci preservi da ogni male e ci conduca alla vita eterna.  
-**R.** Amen.
+**R.** Amen.  
